@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Flowers</h2>
+<ul>
+<li>Sunflower</li>
+<li>Rose</li>
+<li>Lily</li>
+<li>Tulip</li>
+<li>Jasmine</li>
+<li>Daisy</li>
+<li>Marygold</li>
+<li>Hibiscus</li>
+<li>Lotus</li>
+<li>lavender</li>
+</Ul>
+<h2>Tourist place in kanyakumari</h2>
+<ol>
+<li> Thiruvalluvar statue</li>
+<li> Dam</li>
+<li> Vivekanand memorial</li>
+<li> Sunset point</li>
+<li> vattakottai fort</li>
+<li> Thiruparappu falls</li>
+<li> Ghandhi mandapam</li>
+</ol>
+<p>The soul of the sea,the spirit of the south</p>
+</body>
+</html>
